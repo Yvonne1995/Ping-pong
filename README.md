@@ -5,7 +5,7 @@ Follow the following link
 # Prerequisites
 # Acknowledgments
 Moringa School
-#Authors
+# Authors
 Yvonne Kagondu
 ## Known Bugs
 Cannot go beyond 2000
