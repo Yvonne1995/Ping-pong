@@ -1,9 +1,9 @@
 # Project Title
 The game pingPong is a game of numbers that involves selecting the multiples of numbers in 3, 5 and 15. The game is fun and very involving. Enjoy!
 # Getting Started
-Follw the following link
-#Prerequisites
-#Acknowledgments
+Follow the following link
+# Prerequisites
+# Acknowledgments
 Moringa School
 #Authors
 Yvonne Kagondu
